@@ -16,7 +16,8 @@
         "symfony/yaml": "5.4.*"
     },
     "require-dev": {
-        "phpstan/phpstan-symfony": "^1.1"
+        "phpstan/phpstan-symfony": "^1.1",
+        "symfony/maker-bundle": "^1.41"
     },
     "config": {
         "allow-plugins": {
